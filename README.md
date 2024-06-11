@@ -35,3 +35,6 @@ The Healthcare Center Database is a comprehensive system designed to facilitate 
 * Data Entry: Enter and update patient information, treatment records, prescriptions, medical reports, and billing details using appropriate forms and interfaces.
 * Querying and Reporting: Perform queries to retrieve specific information, generate reports, and extract insights for analysis and decision-making.
 * Analytics and Trends: Analyze data trends, monitor healthcare outcomes, and identify areas for improvement in patient care and operational efficiency.
+
+## Conclusion:
+*From the above analysis, we can gain a clear view of seasonal diseases and their severity. We can also identify the most common diseases people suffer from and determine which age groups are most affected during seasonal changes. Additionally, the data allows us to gather comprehensive insights into Patients, Doctors, Medical Reports, Treatment Status, Prescriptions, Billing, and the frequency of prescribed medicines.
