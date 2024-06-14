@@ -1,5 +1,5 @@
-# Healthcare Data Insights#
-# Healthcarecenterdata#
+# Healthcare Data Insights
+# Healthcarecenterdata
 
 This project analyzes HealthCare Center data, a one day camp conducted by Apollo Hospitals, to gain insights into seasonal diseases, their severity, common ailments, and the most affected age groups. The analysis includes comprehensive information on Patients, Doctors, Medical Reports, Treatment Status, Prescriptions, Billing, and the frequency of prescribed medicines. The project utilizes Python, pandas, and matplotlib for data processing and visualization.
 
